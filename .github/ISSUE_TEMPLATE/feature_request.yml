@@ -2,9 +2,6 @@ name: "⚡️ 기능"
 description: "기능 추가 대한 보고서입니다"
 title: "⚡️ "
 labels: ["⚡️ 기능"]
-projects: ["kyoulee/1"]
-assignees:
-  - kyoulee
 body:
   - type: markdown
     attributes:
@@ -67,3 +64,5 @@ body:
           required: true
         - label: 📌 작성자는 모든 작업에 대한 정보가 공개됨을 동의함니까?
           required: true
+
+presented by @kyoulee        
