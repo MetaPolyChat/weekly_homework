@@ -1,12 +1,3 @@
----
-name: Feature request
-about: Suggest an Feature
-title: Add new Feature
-labels: ''
-assignees: ''
-
----
-
 name: "Add Feature"
 description: "기능에 대한 설명"
 title: "[Feat]: "
